@@ -1,0 +1,1 @@
+Fraud Detection Model to classify fraudulent transactions using supervised learning. We create neural network on highly disbalanced dataset. Before that, we balance it out. We reach the f1-score (on validation data) on both classes (0 and 1 ) of above 60%.
